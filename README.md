@@ -2,15 +2,15 @@
 
 Steps to complete:
 
--Inspected included CSV file to create ERD diagram
+- Inspected included CSV file to create ERD diagram
 
--Utilized pgAdmin to create tables matching headers in each CSV
+- Utilized pgAdmin to create tables matching headers in each CSV
 
--Created scheme.sql file to keep SQL code for table generation
+- Created scheme.sql file to keep SQL code for table generation
 
--Imported CSV files into each table witin the database
+- Imported CSV files into each table witin the database
 
--Wrote queries to answer thefollowing questions:
+- Wrote queries to answer thefollowing questions:
 1. List the employee number, last name, first name, sex, and salary of each employee.
 2. List the first name, last name, and hire date for the employees who were hired in 1986.
 3. List the manager of each department along with their department number, department name, employee number, last name, and first name.
@@ -20,6 +20,6 @@ Steps to complete:
 7. List each employee in the Sales and Development departments, including their employee number, last name, first name, and department name.
 8. List the frequency counts, in descending order, of all the employee last names (that is, how many employees share each last name).
 
--Created queries.sql file to keep SQL code for queries
+- Created queries.sql file to keep SQL code for queries
 
--Commited and pushe to GitHub repo
+- Commited and pushe to GitHub repo
